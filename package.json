@@ -1,0 +1,22 @@
+{
+  "name": "narcos-code",
+  "version": "3.0.0",
+  "description": "Narcos Code Moderasyon Botu V13",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "jimp": "^0.16.1",
+    "ms": "^2.1.3",
+    "nrc.db": "^2.1.0",
+    "rhino-ms": "^0.4.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
